@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\CGSPECTRUM - PROGRAMMING\\3D Platformer\\3D Platformer\\Platformer3D\\Source\\Platformer3D\\Platformer3D.Build.cs",
+		"D:\\CGSPECTRUM - PROGRAMMING\\3D Platformer\\3D Platformer\\Platformer3D\\Source\\Platformer3D.Target.cs",
+		"D:\\CGSPECTRUM - PROGRAMMING\\3D Platformer\\3D Platformer\\Platformer3D\\Source\\Platformer3DEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
