@@ -186,3 +186,5 @@ Platformer3D/Saved/Logs/Platformer3D-backup-2023.05.05-11.54.48.log
 Platformer3D/Saved/Logs/Platformer3D-backup-2023.05.05-11.56.13.log
 Platformer3D/Saved/Logs/Platformer3D-backup-2023.05.05-13.02.55.log
 Platformer3D/Saved/Logs/Platformer3D.log
+*.pdb
+*.old
