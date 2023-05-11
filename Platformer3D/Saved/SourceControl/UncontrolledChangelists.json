@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGSPECTRUM - PROGRAMMING/3D Platformer/3D Platformer/Platformer-3D/Platformer3D/Content/Blueprints/BP_PlayerBase.uasset",
+				"D:/CGSPECTRUM - PROGRAMMING/3D Platformer/3D Platformer/Platformer-3D/Platformer3D/Content/Assets/Maps/Main.umap",
 				"D:/CGSPECTRUM - PROGRAMMING/3D Platformer/3D Platformer/Platformer3D/Content/LevelPrototyping/Meshes/SM_Ramp.uasset",
 				"D:/CGSPECTRUM - PROGRAMMING/3D Platformer/3D Platformer/Platformer3D/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
 				"D:/CGSPECTRUM - PROGRAMMING/3D Platformer/3D Platformer/Platformer3D/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
