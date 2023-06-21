@@ -1,0 +1,22 @@
+{
+	"configurations": [
+		{
+			"name": "Platformer3DEditor Editor Win64 Development (Platformer3D)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"configurationProvider": "epic.ue",
+			"compileCommands": "D:\\CGSPECTRUM - PROGRAMMING\\3D Platformer\\3D Platformer\\Platformer-3D\\Platformer3D\\.vscode\\compileCommands_Platformer3D.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "msvc-x64",
+			"configurationProvider": "epic.ue",
+			"compileCommands": "D:\\CGSPECTRUM - PROGRAMMING\\3D Platformer\\3D Platformer\\Platformer-3D\\Platformer3D\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
